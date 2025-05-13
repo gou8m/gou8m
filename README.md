@@ -93,4 +93,4 @@ I'm a DevOps Engineer focused on building robust, scalable, and secure cloud inf
 
 ---
 
-<p align="center"><i>“In DevOps, everything can be code — even culture.”</i></p>
+<p align="center"><i>"If it’s not versioned, it doesn’t exist"</i></p>
