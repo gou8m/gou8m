@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Goutham 👋</h1>
 <p align="center">🚀 DevOps Engineer | Automating Cloud Infrastructure | AWS • Terraform • Kubernetes</p>
 
----
-
 <div align="center">
-  <a href="mailto:hellogoutham@proton.me" style="margin-right: 10px;">
+  <a href="mailto:hellogoutham@proton.me">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://medium.com/@gou8m" target="_blank" style="margin-right: 10px;">
+  <a href="https://medium.com/@gou8m" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gou8m/" target="_blank">
@@ -15,6 +13,7 @@
   </a>
 </div>
 
+---
 
 ### 💼 About Me
 
@@ -44,36 +43,42 @@ I'm a DevOps Engineer focused on building robust, scalable, and secure cloud inf
 ### 📈 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gou8m&show_icons=true&theme=github_dark&border_radius=10&hide_title=true" height="180px" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gou8m&layout=compact&theme=github_dark&border_radius=10&hide_title=true" height="180px" />
-  
-  <!-- GitHub Streak -->
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=gou8m&theme=github-dark&border_radius=2.9&background=45%2C0D1117%2C0D1117&border=EBEBEB&stroke=EBEBEB&ring=EBEBEB&fire=EBEBEB&dates=EBEBEB&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)</div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gou8m&show_icons=true&theme=github_dark&border_radius=10&bg_color=0D1117&title_color=ffffff&icon_color=79ff97&text_color=cccccc" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gou8m&layout=compact&theme=github_dark&border_radius=10&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="180px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app?user=gou8m&theme=github-dark&border_radius=10&background=0D1117&ring=79ff97&fire=79ff97&currStreakLabel=ffffff&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&currStreakNum=ffffff&hide_total_contributions=true&hide_longest_streak=true" height="180px" />
+      </td>
+    </tr>
+  </table>
 
-
-
-
-
-
+</div>
 
 ---
 
 ### 📚 Blog Posts
 
-#### 📝 [Centralized Logging and Monitoring on EC2 Using CloudWatch](https://medium.com/@gou8m/centralized-logging-and-monitoring-on-ec2-using-cloudwatch-515e4ddd2895) <a href="https://medium.com/@gou8m/centralized-logging-and-monitoring-on-ec2-using-cloudwatch-515e4ddd2895" target="_blank" style="color: #00B89A;"> </a>
-
-
+<div align="center">
+  <a href="https://medium.com/@gou8m/centralized-logging-and-monitoring-on-ec2-using-cloudwatch-515e4ddd2895" target="_blank">
+    <img src="https://img.shields.io/badge/📝 Centralized Logging and Monitoring on EC2 Using CloudWatch-%2300B89A.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ### 💼 Portfolio
 
 <div align="center">
-  <a href="[Your Portfolio URL]" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-%23D14836.svg?&style=for-the-badge&logo=portfolio&logoColor=white" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-%2300B89A.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
 </div>
 
@@ -81,9 +86,9 @@ I'm a DevOps Engineer focused on building robust, scalable, and secure cloud inf
 
 ### 🎯 My 2025 Goals
 
-- 🌟 **AWS Certified Solutions Architect – Associate**: Achieve certification to validate my expertise in designing and deploying scalable, highly available, and fault-tolerant systems on AWS.
-- 🌟 **Kubernetes Certification**: Gain proficiency in managing Kubernetes clusters and mastering Kubernetes architecture for container orchestration.
+- ✅ **AWS Certified Solutions Architect – Associate**
+- ✅ **Kubernetes Certification**
 
 ---
 
-> *“In DevOps, everything can be code — even culture.”* 🧠
+<p align="center"><i>“In DevOps, everything can be code — even culture.”</i></p>
