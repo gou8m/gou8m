@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Goutham 👋</h1>
+<h1 align="center">Hi, I'm Goutham Kumar Aare</h1>
 <p align="center">🚀 DevOps Engineer | Automating Cloud Infrastructure | AWS • Terraform • Kubernetes</p>
 
 <div align="center">
@@ -15,13 +15,13 @@
 
 ---
 
-### 💼 About Me
+### About Me
 
 I'm a DevOps Engineer focused on building robust, scalable, and secure cloud infrastructure. I bridge the gap between development and operations by automating everything from code to deployment using modern DevOps practices.
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -40,54 +40,56 @@ I'm a DevOps Engineer focused on building robust, scalable, and secure cloud inf
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gou8m&show_icons=true&theme=github_dark&border_radius=10&bg_color=0D1117&title_color=ffffff&icon_color=79ff97&text_color=cccccc" height="180px" />
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=gou8m&show_icons=true&theme=github_dark&bg_color=0D1117&border_radius=10&title_color=ffffff&icon_color=79ff97&text_color=cccccc" height="180px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gou8m&layout=compact&theme=github_dark&border_radius=10&bg_color=0D1117&title_color=ffffff&text_color=cccccc" height="180px" />
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gou8m&layout=compact&theme=github_dark&bg_color=0D1117&border_radius=10&title_color=ffffff&text_color=cccccc" height="180px" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app?user=gou8m&theme=github-dark&border_radius=10&background=0D1117&ring=79ff97&fire=79ff97&currStreakLabel=ffffff&sideNums=cccccc&sideLabels=cccccc&dates=cccccc&currStreakNum=ffffff&hide_total_contributions=true&hide_longest_streak=true" height="180px" />
-      </td>
     </tr>
   </table>
 
 </div>
 
+
 ---
 
-### 📚 Blog Posts
+### Blog Posts
 
 <div align="center">
   <a href="https://medium.com/@gou8m/centralized-logging-and-monitoring-on-ec2-using-cloudwatch-515e4ddd2895" target="_blank">
-    <img src="https://img.shields.io/badge/📝 Centralized Logging and Monitoring on EC2 Using CloudWatch-%2300B89A.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Centralized%20Logging%20and%20Monitoring%20on%20EC2%20Using%20CloudWatch-%23FFFFFF.svg?&style=for-the-badge&logo=medium&logoColor=black&border=2" />
   </a>
 </div>
 
 ---
 
-### 💼 Portfolio
+### Portfolio
 
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-%2300B89A.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%94%97-visit%20my%20portfolio-%23FFFFFF.svg?&style=for-the-badge&logoColor=black&border=2" />
   </a>
 </div>
 
+
+
+
 ---
 
-### 🎯 My 2025 Goals
+### 2025 Goals
 
-- ✅ **AWS Certified Solutions Architect – Associate**
-- ✅ **Kubernetes Certification**
+-  **AWS Certified Solutions Architect – Associate**
+-  **Kubernetes Certification**
 
 ---
 
