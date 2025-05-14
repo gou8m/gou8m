@@ -40,29 +40,6 @@ I'm a DevOps Engineer focused on building robust, scalable, and secure cloud inf
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=gou8m&show_icons=true&theme=github_dark&bg_color=0D1117&border_radius=10&title_color=ffffff&icon_color=79ff97&text_color=cccccc" height="180px" />
-      </td>
-      <td>
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gou8m&layout=compact&theme=github_dark&bg_color=0D1117&border_radius=10&title_color=ffffff&text_color=cccccc" height="180px" />
-      </td>
-    </tr>
-    </tr>
-  </table>
-
-</div>
-
-
----
-
 ### Blog Posts
 
 <div align="center">
