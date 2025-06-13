@@ -48,6 +48,12 @@ I'm a DevOps Engineer focused on building robust, scalable, and secure cloud inf
   </a>
 </div>
 
+<div align="center">
+  <a href="https://medium.com/@gou8m/configuring-pagerduty-with-grafana-and-prometheus-for-smart-alerting-7f955c80566b" target="_blank">
+    <img src="https://img.shields.io/badge/Configuring%20PagerDuty%20with%20Grafana%20and%20Prometheus%20for%20Smart%20Alerting-%23FFFFFF.svg?&style=for-the-badge&logo=medium&logoColor=black&border=2" />
+  </a>
+</div>
+
 ---
 
 ### Portfolio
