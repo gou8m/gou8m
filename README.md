@@ -43,8 +43,14 @@ I'm a DevOps Engineer focused on building robust, scalable, and secure cloud inf
 ### Blog Posts
 
 <div align="center">
-  <a href="https://medium.com/@gou8m/centralized-logging-and-monitoring-on-ec2-using-cloudwatch-515e4ddd2895" target="_blank">
-    <img src="https://img.shields.io/badge/Centralized%20Logging%20and%20Monitoring%20on%20EC2%20Using%20CloudWatch-%23FFFFFF.svg?&style=for-the-badge&logo=medium&logoColor=black&border=2" />
+  <a href="https://gou8m.medium.com/deploying-a-three-tier-application-on-ubuntu-amazon-linux-2023-cd3bc17ab54e" target="_blank">
+    <img src="https://img.shields.io/badge/Deploying%20a%20Three%20Tier%20Application%20on%20Ubuntu%20%26%20Amazon%20Linux%202023-%23FFFFFF.svg?&style=for-the-badge&logo=medium&logoColor=black&border=2" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://gou8m.medium.com/installing-mysql-8-0-on-amazon-linux-2023-db-on-ec2-8085ef013113" target="_blank">
+    <img src="https://img.shields.io/badge/Installing%20MySQL%208.0%20on%20Amazon%20Linux%202023%20DB%20on%20EC2-%23FFFFFF.svg?&style=for-the-badge&logo=medium&logoColor=black&border=2" />
   </a>
 </div>
 
@@ -53,6 +59,13 @@ I'm a DevOps Engineer focused on building robust, scalable, and secure cloud inf
     <img src="https://img.shields.io/badge/Configuring%20PagerDuty%20with%20Grafana%20and%20Prometheus%20for%20Smart%20Alerting-%23FFFFFF.svg?&style=for-the-badge&logo=medium&logoColor=black&border=2" />
   </a>
 </div>
+
+<div align="center">
+  <a href="https://medium.com/@gou8m/centralized-logging-and-monitoring-on-ec2-using-cloudwatch-515e4ddd2895" target="_blank">
+    <img src="https://img.shields.io/badge/Centralized%20Logging%20and%20Monitoring%20on%20EC2%20Using%20CloudWatch-%23FFFFFF.svg?&style=for-the-badge&logo=medium&logoColor=black&border=2" />
+  </a>
+</div>
+
 
 ---
 
