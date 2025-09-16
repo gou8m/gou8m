@@ -2,19 +2,11 @@
 <p align="center">🚀 DevOps Engineer | Automating Cloud Infrastructure | AWS • Terraform • Kubernetes</p>
 
 <div align="center">
-  <a href="mailto:hellogoutham@proton.me">
-    <img src="https://img.shields.io/badge/Email-black?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://medium.com/@gou8m" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-black?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/gou8m/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://x.com/_gou8m" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  <a href="mailto:hellogoutham@proton.me"><img src="https://img.shields.io/badge/Email-black?&style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://medium.com/@gou8m" target="_blank"><img src="https://img.shields.io/badge/Medium-black?&style=for-the-badge&logo=medium&logoColor=white"/></a><a href="https://www.linkedin.com/in/gou8m/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://x.com/_gou8m" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=x&logoColor=white"/></a>
 </div>
+
+
+
 
 ---
 
